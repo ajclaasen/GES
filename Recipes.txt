@@ -1,0 +1,119 @@
+BUILDINGS
+
+Barracks - 5 lumber, 3 stones, 4 steel bars, 4 skins
+Blacksmith - 2 steel bars, 2 copper bars, 4 hot coals, 2 screws, 2 stones
+Burrow*** - 9 stones, 3 lumber
+Campfire - 1 stone, 1 lumber
+Cooking Pot - 2 lumber, 1 copper ore
+Deep Mine - 4 lumber, 2 ironwood branches, 6 stones, 2 steel bars, 4 copper bars, 2 silver bars, 2 gold bars, 4 screws, 2 gold bolts, 2 silver nuts
+Factory - 6 steel bars, 2 cogs, 2 gears, 3 screws, 2 springs
+Flower Garden - 2 lumber, 1 leaves, 1 ashenvale grass
+Forge - 4 stones, 4 lumber, 4 iron ore, 4 copper ore
+Guard Tower - 4 lumber, 4 stones, 2 steel bars
+Regenerating Tree - 12 ironwood branches, 2 mithryl bars
+Shack - 3 skins, 3 lumber
+Sheep Farm - 2 skins, 3 lumber, 3 stones
+Shipyard - 5 lumber, 5 steel bars, 5 stones
+Sky Labs - 2 steel bars, 1 lumber, 2 mithryl bars, 1 copper bar, 1 hot coal, 2 stones, 2 cogs, 2 gears, 2 screws
+Tanner - 3 lumber, 3 steel bars, 3 copper ore
+Walls - 1 stone OR 1 lumber OR 2 copper bars OR 2 steel bars
+War Mill - 4 stones, 4 lumber, 4 iron ore
+Watchtower - 4 lumber, 2 stones, 1 steel bars
+Wooden Hut - 6 lumber
+
+Lit TNT - 1 TNT, 1 Hot Coal
+
+*** The Burrow may only be constructed by the Builders, Pyromaniac, Grenadier, Tinker, and Worker heroes
+
+
+ITEMS IN BUILDING INVENTORIES
+
+== War Mill ==
+Hot Coal - 1 Lumber
+Rope - 1 Vines
+Gunpowder - 1 Hot Coal, 1 Iron Ore
+Black Gunpowder - 1 Gunpowder, 1 Barren Grass, 1 Hot Coal
+TNT - 1 Black Gunpowder, 1 Barren Shrub, 1 Hot Coal
+Structural Reinforcing Package Mk I - 1 Ironwood Branch, 1 Copper Ore
+Structural Reinforcing Package Mk II - 1 Ironwood Branch, 1 Mithryl Ore
+
+== Forge ==
+Steel Bar - 1 Hot Coal, 1 Iron Ore
+Copper Bar - 1 Hot Coal, 1 Copper Ore
+Silver Bar - 1 Hot Coal, 1 Silver Ore
+Gold Bar - 1 Hot Coal, 1 Gold Ore
+Mithryl Bar - 1 Hot Coal, 1 Mithryl Ore
+Cogs - 1 Steel Bar, 1 Lumber
+Gears - 1 Steel Bar, 1 Copper Bar
+Screws - 1 Steel Bar, 1 Hot Coal
+Springs - 1 Copper Bar, 1 Hot Coal
+Silver Nut - 1 Silver Bar, 1 Hot Coal
+Gold Wire - 1 Gold Bar, 1 Hot Coal
+Gold Bolt - 1 Gold Bar, 1 Copper Bar
+Caravan [Unit] - 1 Steel Bar, 1 Screws, 1 Springs, 1 Gears, 1 Gunpowder, 1 Ironwood Branch
+Tinker Tank [Unit] - 1 Silver Bar, 1 Mithryl Bar, 1 Gold Wire, 1 Gold Bolts, 1 Silver Nuts, 1 Ship Cannon Mk II
+
+== Tanner ==
+Boots of Speed - 1 Skin, 1 Ashenvale Grass
+Desert Survival Unit - 1 Skin, 1 Steel Bar, 1 Screws, 1 Ironwood Branch
+Sleeping Bag - 4 Wool, 2 Rope
+
+== Shipyard ==
+Small Transport Boat [Unit] - 1 Lumber, 1 Steel Bar, 1 Skin, 1 Rope
+Small Frigate [Unit] - 1 Lumber, 1 Copper Bar, 1 Skin, 1 Ship Cannon Mk I, 1 Rope
+Small Juggernaught [Unit] - 1 Lumber, 1 Silver Bar, 1 Gold Bolts, 1 Silver Nuts, 1 Ship Cannon Mk II, 1 Rope
+
+== Factory ==
+Ship Cannon Mk I - 1 Steel Bar, 1 Gunpowder, 1 Screws
+Ship Cannon Mk II - 1 Steel Bar, 1 Black Gunpowder, 1 Silver Nuts, 1 Gold Bolts, 1 Silver Bar
+Clockwerk Goblin Mk I [Unit] - 1 Steel Bar, 1 Screws, 1 Springs
+Clockwerk Goblin Mk II [Unit] - 1 Copper Bar, 1 Iron Ore, 1 Cogs, 1 Screws, 1 Springs, 1 Gears
+Clockwerk Goblin Mk III [Unit] - 1 Silver Bar, 1 Iron Ore, 1 Hot Coal, 1 Springs, 1 Cogs, 1 Screws
+Clockwerk Goblin Mk IV [Unit] - 1 Gold Bar, 1 Springs, 1 Gold Wire, 1 Hot Coal, 1 Gear, 1 Screws
+Shredder MK I [Unit] - 1 Steel Bar, 1 Copper Bar, 1 Gears, 1 Springs
+Electric Claws - 1 Gold Bar, 1 Gold Bolts, 1 Screws
+Mechanoscout [Unit] - 1 Steel Bar, 1 Screws, 1 Gears
+Shears - 1 Gold Wire, 1 Steel Bar, 1 Lumber
+
+== Blacksmith ==
+Iron Sword - 1 Iron Ore, 1 Hot Coal
+Steel Sword - 1 Iron Sword, 1 Steel Bar, 1 Hot Coal
+Adorned Steel Sword - 1 Steel Sword, 1 Gold Bar, 1 Silver Bar, 1 Hot Coal
+Mithryl Sword - 1 Adorned Steel Sword, 1 Mithryl Bar, 1 Hot Coal
+Flamethrower Mk I - 1 Wood, 1 Steel Bar, 1 Hot Coal
+Flamethrower Mk II - 1 Flamethrower Mk I, 1 Copper Bar, 1 Hot Coal
+Flamethrower Mk III - 1 Flamethrower Mk II, 1 Silver Bar, 1 Hot Coal
+Flamethrower Mk IV - 1 Flamethrower Mk III, 1 Gold Bar, 1 Hot Coal
+Flamethrower Mk V - 1 Flamethrower Mk IV, 1 Mithryl Bar, 1 Hot Coal
+Mortar Mk I - 1 Steel Bar, 1 Copper Bar, 1 Gunpowder, 1 Hot Coal
+Mortar Mk II - 1 Mortar Mk I, 1 Steel Bar, 1 Black Gunpowder, 1 Hot Coal
+Mortar Mk III - 1 Mortar Mk II, 1 Gold Bar, 1 TNT, 1 Hot Coal
+
+== Sky Labs ==
+Small Zeppelin [Unit] - 1 Skin, 1 Wood, 1 Steel Bar, 1 Copper Bar, 1 Screws
+War Zeppelin [Unit?] - 1 Mithryl Bar, 1 Silver Nuts, 1 Shop Cannon Mk II, 1 Gold Wire, 1 Gold Bolts, 1 Gears
+
+== Cooking Pot ==
+Weak Goblin Tonic - 1 Ashenvale Grass, 1 Violet Flower
+Strong Goblin Tonic - 1 Ashenvale Shrub, 1 Leaves, 1 Yellow flower, 1 Violet Flower
+Lekka Meat - 1 Meat, 1 Ashenvale Shrub
+Spiced Lekka Meat - 1 Lekka Meat, 1 Violet Flower
+
+== Barracks ==
+Guardian Archers - 1 Steel Bar, 1 Lumber, 1 Leaves, 1 Lekka Meat
+
+
+UNIT UPGRADES (I don't know what this does)
+
+Clockwerk Goblin - 1 Springs, 1 Screws
+Shredder - 1 Springs, 1 Screws, 1 Steel Bar
+
+
+TINKER (I don't know how this works either)
+
+Clockwerk Goblin Mk I - 50% Steel Bar, 25% Springs, 25% Screws
+Clockwerk Goblin Mk II - 25% Steel Bar, 25% Springs, 25% Screws, 25% Gears
+Clockwerk Goblin Mk III - 20% Silver Bar, 20% Steel Bar, 20% Springs, 20% Screws, 20% Cogs
+Clockwerk Goblin Mk IV - 15% Gold Bar, 15% Silver Bar, 15% Cog, 15% Gold Wire, 15% Spring, 15% Screw, 10% Air (Not an Item)
+Shredder Mk I - 15% Copper Bar, 15% Silver Bar, 15% Cog, 15% Gear, 15% Spring, 15% Screw, 10% Air (Not an Item)
+Mechanoscout - 30% Steel Bar, 30% Screws, 30% Gears, 10% Air (Not an Item)
